@@ -1,0 +1,15 @@
+{
+  "topic": "Troubleshooting a vacuum cleaner that stopped picking up debris and appeared to stop working.",
+  "sentiment": "Frustrated",
+  "service_score": 2,
+  "policy_adherence": true,
+  "interruption_count": 3,
+  "scoring_breakdown": {
+    "policy_adherence_points": 30,
+    "sentiment_points": 0,
+    "outcome_points": 30,
+    "politeness_points": 4,
+    "justification": "Policy: 30 points because the agent made no unauthorized account or payment changes. Sentiment: 0 points because the customer's repeated corrections and the agent's interruptions made the call frustrated. Outcome: 30 points because the full vacuum bag was identified as the cause and a clear solution was established. Politeness: 4 points after deducting 2 points for each of three interruptions."
+  },
+  "final_productivity_score": 64
+}

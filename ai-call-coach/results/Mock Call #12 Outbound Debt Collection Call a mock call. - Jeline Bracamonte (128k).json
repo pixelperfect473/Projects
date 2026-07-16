@@ -1,0 +1,15 @@
+{
+  "topic": "Collection of a 30-day overdue credit card balance and arrangement of a partial payment by bank transfer.",
+  "sentiment": "Friendly",
+  "service_score": 4,
+  "policy_adherence": true,
+  "interruption_count": 0,
+  "scoring_breakdown": {
+    "policy_adherence_points": 30,
+    "sentiment_points": 30,
+    "outcome_points": 30,
+    "politeness_points": 10,
+    "justification": "Policy: 30/30 because the agent arranged payment steps without moving or extending a due date. Sentiment: 30/30 for a friendly, professional exchange; Outcome: 30/30 because the customer agreed to a partial payment and received bank-transfer details; Politeness: 10/10 because the agent remained courteous and did not interrupt."
+  },
+  "final_productivity_score": 100
+}

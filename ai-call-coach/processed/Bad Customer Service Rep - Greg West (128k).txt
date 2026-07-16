@@ -1,0 +1,17 @@
+speaker_0: All Pro Vacuums, this is Tanya.
+speaker_1: Hey, Tanya. Um, I'm having a problem with my vacuum cleaner. Uh, it just stopped working on me and I don't know why it stopped working. Uh, it's- it's not old or wearing-
+speaker_0: Did you check underneath to see if anything is blocking it?
+speaker_1: Uh, well, yeah, of course I did. It was- That was one of the first things that I did. Um, this- Okay, all right, this is what happened. This morning, I started vacuuming my son's room and it's a pretty good size room, it's about a 12 by 12, and it was working- it was working just fine. And then I moved into the living room, which is even a larger room.
+speaker_0: How about the belt?
+speaker_1: And wh- And-
+speaker_0: Did you check to see if it was broken?
+speaker_1: No. It wasn't the belt. I checked that too. I'm trying to t- I'm trying to explain that what I was doing w- Okay, hold on. I'm trying to explain to you what happened when the vacuum broke, what I was doing. When I was vacuuming the living room, I started noticing that it wasn't picking up stuff so good, so I turned it off and I got down and started looking at it and the carpet was kinda high, but you know, nothing was clogged underneath. And also, I did look at the belt and it seemed okay.
+speaker_0: Did the vacuum cleaner work when you first started using it today?
+speaker_1: Yes. Tha- I- I just said that. Um, I- You know, I remember I told you that it did start- I started off vacuuming my son's room and it worked just fine. And, uh, you know, when I was vacuuming the living room, that's when it stopped working.
+speaker_0: Have you ever checked the bag? They get full and you have to replace them.
+speaker_1: Um, huh. Uh, you know what? Uh... Gosh, let me... Okay, let me- let me check the bag. Uh, that might be it. Uh, h- hold on just a moment. I'm- I'm still gonna be on the phone, all right?
+speaker_0: Okay.
+speaker_1: Let's see here. All right. Okay, it's completely full. I- I can't believe my- my girlfriend didn't change the bag. It- It can't happen on my-
+speaker_0: Well, it sounds like that fixed your problem.
+speaker_1: Yeah. Uh... Yeah, thank you.
+speaker_0: Okay, no problem.

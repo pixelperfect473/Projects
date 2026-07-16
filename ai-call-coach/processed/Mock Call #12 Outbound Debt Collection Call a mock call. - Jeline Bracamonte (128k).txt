@@ -1,0 +1,23 @@
+speaker_0: Hi, Simon. My name is Alison and I'm calling from First Union Bank. How are you doing today?
+speaker_1: Hey, Alison. Everything is fine. How are you?
+speaker_0: I'm good, thanks. I just need to quickly verify that I'm speaking to the correct person. Can you please confirm the last four digits of your Social Security number?
+speaker_1: Um, uh, that's actually personal information. What is this for?
+speaker_0: This is an important call about your credit card, and it will only take a few minutes. Is that okay?
+speaker_1: Yeah. Uh, that's okay.
+speaker_0: Great. And I'll just need the last four digits of your Social Security number.
+speaker_1: Um, okay. Uh, that will be 8469.
+speaker_0: Great. Thank you. Simon, I'm calling about your outstanding credit card balance of $4,829 that has been overdue for 30 days. Now, I would like to know if I can take this payment for this amount over the phone today.
+speaker_1: Um, uh, wait, wait. Um, what was that amount again?
+speaker_0: The outstanding amount is $4,829.
+speaker_1: Wow. Um, uh, I'm actually waiting on a paycheck this month. I can't pay this as of right now.
+speaker_0: Oh, I'm sorry to hear that. Well, Simon, in order to prevent damage to your credit history, I do recommend that you make at least a partial payment today. Is that possible?
+speaker_1: I really don't know. What does a partial payment mean?
+speaker_0: Um, the minimum amount is 25% of the outstanding amount. Will that work for you?
+speaker_1: Yes, that works.
+speaker_0: That's great. You can pay either with a bank transfer, another credit or debit card. Which one do you prefer?
+speaker_1: Um, I, I actually prefer the bank transfer.
+speaker_0: Bank transfer? Okay. I can text you our bank details. Is that okay?
+speaker_1: Yeah, that'll be perfect.
+speaker_0: Excellent. Well, I just sent you the details. Okay, Simon? Thank you for your time, and we're available if you need anything else or if you have problems with the payment. Have a great day.
+speaker_1: Thank you.
+speaker_0: Bye.
