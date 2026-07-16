@@ -7,8 +7,8 @@ import os
 import fetchfromdb as ffdb
 
 # Database connection details
-server = 'Wagas.hankeyinvestments.com' #'prodsnapshot'  
-database = 'NLC_CACRSvc' #'CACRSvc_20240808'
+server = credentials.server
+database = credentials.database
 username = credentials.prodsnapshotUser
 password = credentials.prodsnapshotPass
 
