@@ -4,7 +4,7 @@ import credentials
 import tokens
 # GET TOKENS AND STORES IT IN TOKEN.PY
 #token expires every 2 hours
-AUTH_URL = 'https://authentication.carfax.ca/oauth/token'
+AUTH_URL = credentials.Endpoint
 
 AUTH_HEADERS = {
     'Content-Type': 'application/x-www-form-urlencoded'
